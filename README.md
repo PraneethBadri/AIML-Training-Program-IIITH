@@ -1,1 +1,1 @@
-# AIML-Training-Program-IITH
+# AIML-Training-Program-IIITH
